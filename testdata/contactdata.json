@@ -1,0 +1,14 @@
+{
+    "TC001_Create contact with valid data": {
+        "FirstName": "John",
+        "LastName": "Lee",
+        "SupportEndDate": "2024-06-13"
+    },
+
+    "TC_004_Update contact with valid data":{
+         "FirstName": "John_updated",
+         "LastName": "Lee_updated",
+         "SupportEndDate": "2024-06-20"
+
+    }
+}
