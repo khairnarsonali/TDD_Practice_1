@@ -1,0 +1,6 @@
+{
+    "TC_001_Search Contact with valid data":{
+        "SearchContactInput":"John"
+    }
+
+}

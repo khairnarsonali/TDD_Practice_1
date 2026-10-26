@@ -1,0 +1,15 @@
+{
+    "TC001_Login with valid credentials": {
+        "Username": "admin",
+        "Password": "admin"
+    },
+    
+    "TC002_Login with invalid credentials": {
+        "Username": "admin111",
+        "Password": "admin222"
+    }
+
+    
+
+}
+
